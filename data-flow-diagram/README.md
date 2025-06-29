@@ -1,10 +1,21 @@
-# Data Flow Diagram
+# Data Flow Diagram (DFD)
 
-This Data Flow Diagram shows how data moves through the Airbnb backend system.
+This DFD outlines the movement of data within the Airbnb Clone backend system.
 
-It includes:
-- External entities: Guest, Host
-- Processes: Register/Login, Book Property, List Property, Make Payment
-- Data Stores: Users DB, Properties DB, Bookings DB, Payments DB
+🔄 Main Processes:
+- User Registration/Login
+- Property Listing
+- Booking Process
+- Payment System
 
-![Data Flow](data-flow.png)
+📦 Data Stores:
+- Users DB
+- Properties DB
+- Bookings DB
+- Payments DB
+
+🧑‍💻 External Entities:
+- Guest
+- Host
+
+This diagram helps visualize how backend features are connected and how data flows through them.
